@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670166415762_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670166415790_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670166615482_3" label="summer-parent" name="summer-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/shopping-v2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/summer-admin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/summer-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/summer-app" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670166417686_2" label="Window Working Set" name="Aggregate for window 1670166417686"/>
+</workingSetManager>
